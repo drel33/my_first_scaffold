@@ -1,0 +1,31 @@
+#new_todo {
+  color: blue;
+}
+
+#show a {
+  color: green;
+}
+
+#edit a {
+  color: black;
+}
+
+#destroy a {
+  color: red;
+}
+
+#description {
+  color: red;
+}
+
+#list {
+  color: green;
+}
+
+#show-description {
+  color: green;
+}
+
+#edit-todo {
+  color: red;
+}
